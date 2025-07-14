@@ -1,0 +1,16 @@
+model:
+  name: "DummyModel"
+  confidence_threshold: 0.5
+
+selector:
+  type: "MLP"
+  input_dim: 768
+  hidden_dim: 256
+
+prompt:
+  examples_k: 4
+
+paths:
+  human_data: "data/human_examples.json"
+  self_data: "data/self_generated.json"
+  results_dir: "experiments/results/"
