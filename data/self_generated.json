@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the next number in the sequence: 3, 6, 9, ?",
+    "answer": "12"
+  },
+  {
+    "question": "Translate 'hello' to Spanish.",
+    "answer": "Hola"
+  },
+  {
+    "question": "Name a mammal that can fly.",
+    "answer": "Bat"
+  }
+]
