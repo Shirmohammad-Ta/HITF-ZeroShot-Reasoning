@@ -6,8 +6,7 @@ It dynamically combines human-annotated and self-generated examples and leverage
 ## 🔬 Paper Reference
 **Title:** Enhancing Zero-Shot Reasoning in Language Models via Hybrid Instruction Marginalization  
 **Author:** Shirmohammad Tavangari  
-**Affiliation:** University of British Columbia, Canada  
-[PDF Link](https://example.com/paper.pdf)
+
 
 ## 🧠 Key Features
 - Dynamic data selection (human vs self-generated)
@@ -45,4 +44,4 @@ data/
 
 ---
 
-Made with ❤️ by [Shirmohammad Tavangari](mailto:s.tavangari@alumni.ubc.ca)
+Made by [Shirmohammad Tavangari](mailto:s.tavangari@alumni.ubc.ca)
